@@ -5,37 +5,37 @@ const teamMembers = [
   {
     name: "Angaye Seimokumo J.",
     role: "Director, Programmer",
-    image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80",
+    image: "https://img.freepik.com/premium-vector/handsome-black-man-with-beard-glasses_1149118-59.jpg?w=740",
     description: "Visionary leader driving the team to success."
   },
   {
     name: "Oruene Azibato",
     role: "Instructor and Research Fellow",
-    image: "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=crop&q=80",
+    image: "https://img.freepik.com/premium-vector/portrait-young-african-man-full-face_276162-169.jpg?w=740",
     description: "Tech enthusiast building innovative solutions."
   },
   {
-    name: "Roland Desmond",
+    name: "Dr. Desmond (Rowland) Eteh (Ph.D)",
     role: "Data Scientist/GIS analyst",
-    image: "https://images.unsplash.com/photo-1502767089025-6572583495c7?auto=format&fit=crop&q=80",
+    image: "https://img.freepik.com/premium-vector/smiling-handsome-black-man-with-beard_1149118-203.jpg?w=740",
     description: "Ensuring every detail aligns with our vision."
   },
   {
     name: "Timi Bob",
     role: "Instructor",
-    image: "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?auto=format&fit=crop&q=80",
+    image: "https://img.freepik.com/premium-vector/handsome-young-black-man-casual-clothes_1149118-76.jpg?w=740",
     description: "Creating stunning visuals for our projects."
   },
   {
     name: "Dekpen Tari",
     role: "Senior Developer",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80",
+    image: "https://img.freepik.com/premium-vector/man-with-beard-blue-hoodie_1262159-26.jpg?w=740",
     description: "Spreading the word about our mission."
   },
   {
     name: "Misongo Favour",
     role: "Senior Developer",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80",
+    image: "https://img.freepik.com/premium-vector/portrait-handsome-male-office-worker_481311-2.jpg?w=740",
     description: "Spreading the word about our mission."
   }
 ];
