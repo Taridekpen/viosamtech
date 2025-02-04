@@ -5,40 +5,58 @@ const teamMembers = [
   {
     name: "Angaye Seimokumo J.",
     role: "Director, Programmer",
-    image: "https://img.freepik.com/premium-vector/handsome-black-man-with-beard-glasses_1149118-59.jpg?w=740",
-    description: "Visionary leader driving the team to success."
+    image: "/images/Angaye Seimokumo.jpg",
+    description: "Leading with innovation, developing cutting-edge software solutions, and driving the team towards technological excellence."
   },
+
+  {
+    name: "Dr. Desmond (Rowland) Eteh (Ph.D)",
+    role: "Data Scientist/Geospatial Analyst",
+    image: "/images/Dr Roland(Desmond) Eteh.png",
+    description: "Expert in data science and geographic information systems, transforming data into actionable insights for impactful decision-making."
+  },
+  
+  {
+    name: "Morris Gift",
+    role: "Instructor",
+    image: "/images/Morris Gift.jpg",
+    description: "Passionate educator, equipping learners with hands-on programming and technical skills to excel in the ICT industry."
+  },
+
+  {
+    name: "Dekpen Tari",
+    role: "Senior Developer",
+    image: "/images/Tari.jpg",
+    description: "Experienced software engineer, crafting robust applications and leading development projects with precision and efficiency."
+  },
+
   {
     name: "Oruene Azibato",
     role: "Instructor and Research Fellow",
     image: "https://img.freepik.com/premium-vector/portrait-young-african-man-full-face_276162-169.jpg?w=740",
-    description: "Tech enthusiast building innovative solutions."
+    description: "Dedicated researcher and instructor, bridging the gap between academia and real-world technology applications."
   },
-  {
-    name: "Dr. Desmond (Rowland) Eteh (Ph.D)",
-    role: "Data Scientist/GIS analyst",
-    image: "https://img.freepik.com/premium-vector/smiling-handsome-black-man-with-beard_1149118-203.jpg?w=740",
-    description: "Ensuring every detail aligns with our vision."
-  },
-  {
-    name: "Timi Bob",
-    role: "Instructor",
-    image: "https://img.freepik.com/premium-vector/handsome-young-black-man-casual-clothes_1149118-76.jpg?w=740",
-    description: "Creating stunning visuals for our projects."
-  },
-  {
-    name: "Dekpen Tari",
-    role: "Senior Developer",
-    image: "https://img.freepik.com/premium-vector/man-with-beard-blue-hoodie_1262159-26.jpg?w=740",
-    description: "Spreading the word about our mission."
-  },
+
   {
     name: "Misongo Favour",
     role: "Senior Developer",
     image: "https://img.freepik.com/premium-vector/portrait-handsome-male-office-worker_481311-2.jpg?w=740",
-    description: "Spreading the word about our mission."
+    description: "Expert in software architecture, designing scalable solutions that power modern applications and digital experiences."
+  },
+  {
+    name: "Ebimie Jonathan",
+    role: "Senior Developer",
+    image: "https://img.freepik.com/premium-vector/portrait-handsome-male-office-worker_481311-2.jpg?w=740",
+    description: "Passionate technologist, leveraging cutting-edge tools to build secure, scalable, and future-ready applications"
+  },
+  {
+    name: "Orukaria Tokoni",
+    role: "Senior Developer",
+    image: "https://img.freepik.com/premium-vector/portrait-handsome-male-office-worker_481311-2.jpg?w=740",
+    description: "Innovative problem solver, engineering high-performance software solutions that drive efficiency and enhance user experience."
   }
 ];
+
 
 const Team = () => {
   const scrollRef = useRef(null);
