@@ -14,9 +14,10 @@ const Navbar = () => {
             <div className="items-center gap-5 lg:gap-10 hidden md:flex">
                 <a href="#home" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Home</a>
                 <a href="#about" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>About</a>
-                <a href="services" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Services</a>
-                <a href="products" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Products</a>
-                <a href="contact" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Contact</a>
+                <a href="#services" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Services</a>
+                <a href="#products" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Products</a>
+                <a href="#gallery" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Gallery</a>
+                <a href="#contact" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Contact</a>
             </div>
             <div className="hidden md:block">
                 {/* <button className='md:bg-blue-700 md:text-white md:px-3 md:py-2 lg:px-5 rounded hover:bg-blue-500 transition-colors'>Client Portal</button> */}

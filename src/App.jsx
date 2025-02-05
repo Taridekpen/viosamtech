@@ -7,6 +7,7 @@ import Product from "./Components/Product";
 import Contact from "./Components/Contact";
 import Team from "./Components/Team";
 import Courses from "./Components/Course";
+import Gallery from "./Components/Gallery";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Courses/>
         <Product/>
         <Team/>
+        <Gallery/>
         <Contact/>
       </main>
     </div>
