@@ -34,8 +34,7 @@ const Contact = () => {
                 <div className="ml-4">
                   <h3 className="text-lg font-medium text-gray-900">Email</h3>
                   <p className="mt-1 text-gray-500">
-                  info@goldenviosam.com
-                  viosamtech@gmail.com
+                  angaye@goldenviosam.com
                     {/* edit this area */}
                   </p>
                 </div>
@@ -82,7 +81,7 @@ const Contact = () => {
                 <div className="ml-4">
                   <h3 className="text-lg font-medium text-gray-900">Office</h3>
                   <p className="mt-1 text-gray-500">
-                    edit location
+                  40 Otuogori/Onuebum Road, Ogbia Bayelsa State.
                     {/* compleate this area */}
                   </p>
                 </div>
