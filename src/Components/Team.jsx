@@ -72,7 +72,7 @@ const Team = () => {
   return (
     <div className="py-16 bg-gray-100">
       <div className="max-w-7xl mx-auto px-6 text-center">
-        <h2 className="text-4xl font-bold text-gray-900">Meet Our Instructors</h2>
+        <h2 className="text-4xl font-bold text-gray-900">Meet Our Staffs</h2>
         <p className="mt-4 text-lg text-gray-700">A group of passionate individuals dedicated to making a difference.</p>
       </div>
       <div className="relative mt-10 max-w-7xl mx-auto px-6">
