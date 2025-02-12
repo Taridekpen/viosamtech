@@ -70,7 +70,7 @@ const courses = [
     instructor: "Dr. Desmond (Rowland) Eteh (Ph.D)",
     duration: "2 Hrs",
     image: "https://plus.unsplash.com/premium_photo-1712489841639-417b916594b5?q=80&w=1632",
-    description: "This course teaches how to transform spatial data into actionable insights using GIS and remote sensing technologies."
+    description: "This course covers integration of machine learning in GIS and remote sensing..."
   },
 
 ];
