@@ -9,6 +9,7 @@ import Team from "./Components/Team";
 import Courses from "./Components/Course";
 import Gallery from "./Components/Gallery";
 
+
 function App() {
   return (
     <div>
