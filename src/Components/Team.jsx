@@ -82,7 +82,7 @@ const Team = () => {
         <div ref={scrollRef} className="flex gap-6 overflow-x-auto scrollbar-hide px-4 scroll-smooth">
           {teamMembers.map((member, index) => (
             <div key={index} className="min-w-[300px] bg-white shadow-lg rounded-xl overflow-hidden">
-              <img src={member.image} alt={member.name} className="max-w-full max-h-full" />
+              <img src={member.image} alt={member.name} className="max-w-full max-h-full max-w-[50%]" />
               <div className="p-4">
                 <h3 className="text-xl font-semibold text-gray-900">{member.name}</h3>
                 <p className="text-blue-500 font-medium">{member.role}</p>
