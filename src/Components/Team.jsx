@@ -15,6 +15,13 @@ const teamMembers = [
     image: "/images/Dr Roland(Desmond) Eteh.png",
     description: "Expert in data science and geographic information systems, transforming data into actionable insights for impactful decision-making."
   },
+
+  {
+    name: "Ugochukwu Charles Akajiaku",
+    role: "Data Scientist/Geospatial Analyst",
+    image: "/images/32.jpg",
+    description: "Expert in data science and geographic information systems, transforming data into actionable insights for impactful decision-making."
+  },
   
   {
     name: "Morris Gift",
