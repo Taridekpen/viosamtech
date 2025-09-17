@@ -44,6 +44,20 @@ const teamMembers = [
     description: "Prince Chukwuemeka is a versatile technology expert with over three years of experience in data science, full-stack development, and cybersecurity. He leads the design and deployment of data-driven solutions for health, environmental, and sustainability challenges. His work blends machine learning, geospatial analysis, and secure web systems to deliver impactful, real-time applications. With a strong background in cybersecurity and human factors, Prince is also a published contributor and mentor in the tech community. His leadership in AI-for-climate innovation and commitment to capacity building continue to advance the company’s digital transformation goals"
   },
 
+   {
+    name: "Okes Imoni",
+    role: "Data Scientist",
+    image: "/images/Okes.jpg",
+    description: "Okes Imoni is a versatile technology expert with over two years of experience in data science. She leads the design and deployment of data-driven solutions that address health, environmental, and sustainability challenges. Her expertise combines machine learning, geospatial analysis, and a strong background in climate technology."
+  },
+
+   {
+    name: "Amos Meremu Dogiye",
+    role: "Data Scientist | Geospatial Analyst",
+    image: "/images/Amos.jpg",
+    description: "Amos Meremu Dogiye is a versatile technology expert with over three years of experience in data science and geospatial analysis. She leads the design and deployment of data-driven solutions that address environmental and climate change challenges, including flood monitoring, oil spill detection, and sustainability planning."
+  },
+
   {
     name: "Oruene Azibato",
     role: "Instructor and Research Fellow",
