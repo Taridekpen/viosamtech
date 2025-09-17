@@ -41,7 +41,7 @@ const teamMembers = [
     name: "Prince Chukwuemeka",
     role: "Data Scientist | Full-Stack Developer",
     image: "/images/prince.jpg",
-    description: "Prince Chukwuemeka is a versatile technology expert with over three years of experience in data science, full-stack development, and cybersecurity. He leads the design and deployment of data-driven solutions for health, environmental, and sustainability challenges. His work blends machine learning, geospatial analysis, and secure web systems to deliver impactful, real-time applications. With a strong background in cybersecurity and human factors, Prince is also a published contributor and mentor in the tech community. His leadership in AI-for-climate innovation and commitment to capacity building continue to advance the company’s digital transformation goals"
+    description: "Prince Chukwuemeka is a versatile technology expert with over three years of experience in data science, full-stack development, and cybersecurity."
   },
 
    {
