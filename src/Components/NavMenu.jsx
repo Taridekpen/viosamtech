@@ -4,27 +4,32 @@ const NavMenu = ({navOpen, setNavOpen}) => {
     const navItems = [
         {
           label: 'Home',
-          link: '#home',
+          link: '/#home',
           className: 'nav-link active',
         },
         {
           label: 'About',
-          link: '#about',
+          link: '/#about',
           className: 'nav-link'
         },
         {
           label: 'Services',
-          link: '#services',
+          link: '/#services',
           className: 'nav-link'
         },
         {
           label: 'Products',
-          link: '#products',
+          link: '/#products',
+          className: 'nav-link'
+        },
+        {
+          label: 'Team',
+          link: '/#team',
           className: 'nav-link'
         },
         {
           label: 'Contact',
-          link: '#contact',
+          link: '/#contact',
           className: 'nav-link md:hidden'
         }
       ];

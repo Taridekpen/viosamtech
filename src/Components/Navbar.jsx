@@ -8,16 +8,17 @@ const Navbar = () => {
         <div className="max-w-screen-2xl w-full mx-auto  flex justify-between items-center  md:px-6 md:py-4">
             <div className='flex items-center gap-1'>
                 {/*Logo should be change later */}
-                <img src="./images/favicon.svg" alt="Logo" width={40} height={40} />
+                <img src="/images/favicon.svg" alt="Logo" width={40} height={40} />
                 <h2 className="text-zinc-900 font-bold text-2xl">VIOSAM</h2>
             </div>
             <div className="items-center gap-5 lg:gap-10 hidden md:flex">
-                <a href="#home" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Home</a>
-                <a href="#about" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>About</a>
-                <a href="#services" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Services</a>
-                <a href="#products" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Products</a>
-                <a href="#gallery" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Gallery</a>
-                <a href="#contact" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Contact</a>
+                <a href="/#home" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Home</a>
+                <a href="/#about" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>About</a>
+                <a href="/#services" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Services</a>
+                <a href="/#products" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Products</a>
+                <a href="/#team" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Team</a>
+                <a href="/#gallery" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Gallery</a>
+                <a href="/#contact" className='text-sm font-medium text-zinc-600 hover:text-blue-700 active:text-blue-500'>Contact</a>
             </div>
             <div className="hidden md:block">
                 {/* <button className='md:bg-blue-700 md:text-white md:px-3 md:py-2 lg:px-5 rounded hover:bg-blue-500 transition-colors'>Client Portal</button> */}

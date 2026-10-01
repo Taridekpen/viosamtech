@@ -2,11 +2,11 @@
 const Hero = () => {
   return (
     <div className=" bg-gradient-to-r from-blue-600 to-blue-800 pt-24 w-full h-full" id="home">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16 lg:py-24">
         <div className="text-center">
-          <h1 className="text-4xl tracking-tight font-extrabold text-white sm:text-5xl md:text-6xl">
+          <h1 className="text-3xl tracking-tight font-extrabold text-white sm:text-5xl md:text-6xl">
             <span className="block">Golden Viosam Nigeria LTD</span>
-            <span className="block text-blue-200">
+            <span className="mt-3 block text-lg font-semibold leading-snug text-blue-200 sm:text-2xl md:text-3xl">
             The Mind is the most beautiful treasure chest, A world sits inside
             </span>
           </h1>
